@@ -1,0 +1,446 @@
+bairro_nome,qtd_lancamentos,valor_total_lancado
+centro,29534,82920123
+savassi,22785,98527386
+buritis,21767,63438560
+lourdes,19606,97164595
+santa efigenia,15513,50137982
+sagrada familia,14284,29499123
+santo antonio,14248,44797894
+castelo,13635,34495989
+santo agostinho,12021,58164728
+barro preto,11672,35509192
+serra,11597,48625089
+sion,10976,47569762
+padre eustaquio,10950,26328090
+funcionarios,10078,46757302
+gutierrez,9596,36353624
+ouro preto,9240,20958638
+santa amelia,9144,16056191
+prado,8600,22037382
+estoril,7819,27944399
+santa monica,7262,12537968
+planalto,7087,18856978
+nova suissa,7074,15420381
+belvedere,7032,69245199
+cidade nova,7026,22258327
+anchieta,6837,30382855
+floresta,6748,18233513
+sao joao batista,6406,11071245
+camargos,6362,9391658
+carlos prates,6118,17736352
+santa tereza,6010,12761013
+santa lucia,5984,33783686
+caicaras,5733,26407154
+uniao,5377,20829710
+cruzeiro,5310,19890934
+santa cruz,5296,12756737
+ceu azul,5271,10115517
+havai,5074,7935559
+itapoa,5064,13823187
+ipiranga,5043,12380311
+salgado filho,4924,8804715
+sao pedro,4732,18450296
+diamante,4657,8320764
+luxemburgo,4465,21176272
+barreiro,4433,22058656
+paqueta,4401,10190979
+piratininga,4317,6461041
+boa viagem,4310,14638546
+colegio batista,4214,8212199
+dona clara,4204,9038934
+lindeia,4160,8050673
+jardim america,4077,8404239
+copacabana,4072,6108380
+mantiqueira,4040,7241206
+jaqueline,3985,8712439
+caicara adelaide,3801,8595552
+gloria,3716,11162631
+coracao eucaristico,3657,8173560
+coracao de jesus,3627,12268212
+rio branco,3424,5926146
+araguaia,3419,6221737
+boa vista,3401,7130146
+grajau,3336,8389172
+nova granada,3287,7216418
+paraiso,3282,6380521
+santa terezinha,3208,6382243
+tirol,3198,6516101
+carmo,3175,14276304
+alipio de melo,3174,7905064
+serrano,3160,6291340
+calafate,3146,7651380
+santa ines,3122,7691176
+pindorama,3060,5776736
+palmares,3047,9207872
+sao luiz,2993,17281006
+goiania,2991,6297445
+jardim dos comerciarios,2988,5212989
+bandeirantes,2884,15947655
+silveira,2859,7489849
+jardim guanabara,2848,5058126
+santa rosa,2848,5973834
+manacas,2792,4289278
+renascenca,2762,6269894
+milionarios,2761,5179735
+fernao dias,2730,5855003
+sao gabriel,2703,4888152
+esplanada,2656,5859812
+joao pinheiro,2631,5151025
+santa branca,2594,5503810
+jardim vitoria,2571,5150640
+heliopolis,2554,4669525
+cinquentenario,2513,4529792
+alto caicaras,2492,6721508
+concordia,2488,5566118
+cachoeirinha,2466,10047677
+dom bosco,2440,5743819
+sao geraldo,2433,5508678
+cardoso,2407,4739098
+liberdade,2373,6890994
+floramar,2336,5523598
+paulo vi,2283,2932033
+ribeiro de abreu,2274,4097634
+graca,2258,5554813
+alto barroca,2172,4840150
+aparecida,2155,4656048
+betania,2089,5148537
+candelaria,2054,4613758
+estrela do oriente,2026,5996188
+california,2012,5402386
+minascaixa,2004,3825058
+trevo,1961,3620337
+jardim leblon,1942,3011145
+jaragua,1938,5068049
+santa helena,1934,4070838
+vila cloris,1934,10005488
+nova gameleira,1920,3546305
+sao bento,1885,11165615
+serra verde,1879,2826828
+nova vista,1849,4245341
+tupi a,1833,3331563
+indaia,1826,4156020
+jardim montanhes,1813,4067876
+leticia,1811,3797471
+sao lucas,1810,5051897
+vila paris,1802,8071773
+tupi b,1798,3705755
+monsenhor messias,1793,3575390
+palmeiras,1792,4508003
+santa maria,1791,3064764
+bonfim,1787,6871309
+nova cachoeirinha,1747,2800097
+bairro das industrias i,1746,13478769
+jardim alvorada,1733,3211974
+sao bernardo,1719,3967467
+sao francisco,1702,9129955
+europa,1688,2950833
+nova floresta,1640,4283871
+novo gloria,1598,3057555
+santo andre,1589,4261036
+minaslandia,1544,3486755
+guarani,1538,4090897
+maria goretti,1537,2954493
+coqueiros,1502,2840363
+cidade jardim,1500,8941794
+minas brasil,1492,3525691
+olaria,1484,1890549
+nazare,1471,2844913
+pompeia,1470,3487913
+novo sao lucas,1461,3245376
+dom cabral,1427,2507111
+horto,1424,5306197
+barroca,1410,3594699
+conjunto california i,1408,1719073
+venda nova,1395,13085329
+flavio marques lisboa,1368,2692089
+dom joaquim,1365,9200433
+brasil industrial,1360,2654507
+oeste,1313,2997193
+maria helena,1297,3034642
+sao jose,1286,4105293
+itaipu,1278,2493755
+miramar,1270,2983095
+juliana,1244,2692404
+lagoinha,1232,3023931
+teixeira dias,1231,1974977
+aeroporto,1191,2851687
+jardim sao jose,1190,2726751
+sao marcos,1185,2205276
+sao salvador,1166,3205667
+alpes,1158,2704863
+providencia,1153,1911536
+lagoinha leblon,1144,2498973
+inconfidencia,1097,2628125
+ouro minas,1090,1823515
+alto dos pinheiros,1064,2248414
+nova esperanca,1064,2397138
+braunas,1051,4333878
+lagoa,1050,1795739
+comiteco,1004,8513324
+vale do jatoba,1002,1631999
+jardim atlantico,997,5588000
+independencia,960,2060239
+eymard,946,1735258
+cenaculo,931,1325458
+aparecida setima secao,923,2936819
+parque sao pedro,923,2326680
+ipe,904,1891963
+maria virginia,899,2928950
+mangabeiras,894,19028736
+saudade,884,1391164
+jonas veiga,880,1768275
+horto florestal,856,2367280
+vera cruz,850,1557470
+marajo,833,1341486
+engenho nogueira,829,7301855
+conjunto celso machado,808,1546757
+casa branca,789,1370973
+nova cintra,777,1755423
+parque sao jose,773,1467376
+frei leopoldo,770,1073373
+ermelinda,767,2003103
+vista alegre,763,1395161
+solar do barreiro,762,824819
+dom silverio,752,1210935
+vitoria,749,1010232
+bonsucesso,746,1944164
+bairro novo das industrias,733,1290750
+bom jesus,717,1387921
+pousada santo antonio,710,873520
+campo alegre,704,861193
+sao paulo,703,1592835
+piraja,702,1253937
+acaiaca,669,1122123
+petropolis,668,1092550
+garcas,654,3072938
+mangueiras,641,1095515
+canaa,636,1264901
+etelvina carneiro,632,1085191
+aarao reis,616,1724737
+taquaril,611,1004275
+mineirao,608,1012924
+pilar,603,2433318
+urca,601,1050180
+penha,557,1323948
+sao cristovao,539,1012832
+santa cecilia,538,983551
+jardinopolis,537,1453405
+sao tomaz,535,1355178
+novo santa cecilia,516,886043
+santa margarida,514,953543
+jatoba,512,1273680
+universitario,506,2650256
+belmonte,504,657074
+ademar maldonado,485,737658
+xangri la,474,167567
+monte azul,466,2494366
+alvaro camargos,449,1189142
+madre gertrudes,427,807861
+itatiaia,406,693959
+conjunto california ii,360,308768
+lajedo,348,551202
+suzana,345,767305
+sao goncalo,343,627376
+marilandia,328,996658
+tunel de ibirite,302,348821
+ernesto do nascimento,298,462216
+alto vera cruz,256,419403
+atila de paiva,240,654192
+pongelupe,238,444803
+cidade jardim taquaril,230,455046
+pirineus,230,490025
+distrito industrial do jatoba,227,1904787
+xodo marize,215,732077
+novo tupi,212,291870
+bairro das industrias ii,202,407688
+sao damiao,197,214390
+madri,192,314936
+nossa senhora do rosario,181,116834
+primeiro de maio,181,227369
+canada,175,609022
+conjunto lagoa,147,188654
+nova pampulha,141,202037
+solimoes,130,361249
+cdi jatoba,129,3158830
+satelite,120,275085
+castanheira,118,364602
+gameleira,112,2717685
+granja de freitas,111,199476
+sao joao,104,54308
+vila rica,99,214142
+apolonia,97,138488
+vila jardim alvorada,97,138435
+leonina,92,279748
+vila sumare,76,110320
+bela vitoria,70,141023
+serra do curral,70,701814
+vila oeste,56,97617
+universo,50,68596
+mariano de abreu,49,37208
+beira linha,47,158395
+vila jardim sao jose,47,52412
+ventosa,43,70874
+vila piratininga,40,76579
+ambrosina,38,82759
+apia,38,103407
+senhor dos passos,38,48013
+granja werneck,37,611449
+vila minaslandia,36,36684
+biquinhas,35,56240
+conjunto santa maria,34,49282
+joao paulo ii,33,649669
+vila novo sao lucas,33,70315
+cabana do pai tomas,32,83949
+nossa senhora da conceicao,30,52928
+vila aeroporto,30,23336
+vila copacabana,30,52847
+barao homem de melo iv,29,48589
+vila mantiqueira,28,38947
+vila santo antonio barroquinha,27,24957
+jardim felicidade,24,20074
+vila coqueiral,24,36261
+vila vista alegre,23,32085
+acaba mundo,22,39195
+alta tensao i,21,24160
+pedreira prado lopes,21,33887
+vila jardim montanhes,21,30140
+vila nova paraiso,21,16875
+conjunto providencia,19,21167
+campus ufmg,18,97123
+sao jorge ii,18,23410
+vila das oliveiras,18,10235
+conjunto paulo vi,17,10428
+capitao eduardo,16,974052
+novo ouro preto,16,29721
+santana do cafezal,16,17504
+vila primeiro de maio,16,15686
+vila engenho nogueira,15,24726
+vila jardim leblon,15,20909
+vila nova cachoeirinha i,15,25813
+vila vera cruz i,15,15945
+antonio ribeiro de abreu,14,23468
+fazendinha,14,24066
+sumare,14,795798
+vila antena montanhes,14,15795
+laranjeiras,13,19845
+lorena,13,24210
+vila da paz,13,21941
+caetano furquim,12,17769
+nossa senhora da aparecida,12,17565
+vila independencia iv,12,15087
+beija flor,11,17641
+conjunto minascaixa,11,18060
+sao francisco das chagas,11,27583
+vila maria,11,12769
+vila paraiso,11,14655
+grota,10,20123
+pantanal,10,18961
+vila boa vista,10,12927
+vila maloca,10,5863
+guarata,9,7537
+vila nova cachoeirinha iv,9,25638
+vila piratininga venda nova,9,33822
+vila santa monica,9,11621
+zilah sposito,9,5160
+barao homem de melo iii,8,6291
+chacara leonina,8,16169
+confisco,8,5053
+santa sofia,8,31939
+vila calafate,8,22081
+vila ipiranga,8,17777
+vila madre gertrudes i,8,7466
+vila real ii,8,12253
+vista do sol,8,10662
+conjunto jardim filadelfia,7,9360
+novo aarao reis,7,4493
+sao jorge iii,7,22131
+tres marias,7,18679
+vila barragem santa lucia,7,85066
+vila independencia i,7,11773
+vila nossa senhora do rosario,7,8558
+vila satelite,7,4156
+baleia,6,119719
+conjunto capitao eduardo,6,4648
+joao alfredo,6,4825
+santa isabel,6,10790
+vila dias,6,12167
+vila do pombal,6,17094
+vila paqueta,6,11996
+vila santa rosa,6,8675
+conjunto bonsucesso,5,1439
+delta,5,3610
+marcola,5,45879
+sao jorge i,5,4569
+vila da amizade,5,8384
+vila mangueiras,5,13969
+vila sao rafael,5,7473
+boa uniao ii,4,2751
+conego pinheiro,4,6067
+conjunto taquaril,4,9247
+santa rita de cassia,4,8617
+sao sebastiao,4,7718
+varzea da palma,4,4977
+vila havai,4,19917
+vila inestan,4,6464
+vila nossa senhora aparecida,4,4615
+vila real i,4,12421
+vila sao dimas,4,7766
+vila suzana i,4,33585
+camponesa i,3,25735
+conjunto jatoba,3,53567
+corumbiara,3,1000
+jardim do vale,3,3903
+maria teresa,3,112621
+marmiteiros,3,1723
+nova america,3,3051
+tiradentes,3,2412
+vila aeroporto jaragua,3,9346
+vila antena,3,6578
+vila da area,3,24879
+vila formosa,3,8023
+vila nova cachoeirinha ii,3,7338
+vila nova gameleira i,3,1961
+vila sao paulo,3,3476
+vila suzana ii,3,5564
+conjunto floramar,2,655
+estrela,2,1302
+grotinha,2,5994
+lagoa da pampulha,2,138143
+maravilha,2,4846
+monte sao jose,2,1430
+santa rita,2,41273
+sport club,2,474
+vila canto do sabia,2,189801
+vila cemig,2,7740
+vila dos anjos,2,1443
+vila nova,2,155472
+vila nova dos milionarios,2,2260
+vila pinho,2,1281
+vila sao francisco,2,7030
+vila sao geraldo,2,8517
+vila tirol,2,20509
+andiroba,1,373
+bacurau,1,2362
+barao homem de melo i,1,5481
+bernadete,1,35109
+bispo de maura,1,3043
+conego pinheiro a,1,747
+esperanca,1,200
+mala e cuia,1,2488
+mariquinhas,1,2288
+morro dos macacos,1,17521
+vila atila de paiva,1,1379
+vila california,1,872
+vila ecologica,1,1487
+vila esplanada,1,2428
+vila independencia ii,1,614
+vila madre gertrudes iii,1,200
+vila madre gertrudes v,1,1520
+vila nova gameleira ii,1,2617
+vila petropolis,1,6904
+vila pilar,1,84294
+vila sao gabriel jacui,1,712
+vila sesc,1,2131
+vila trinta e um de marco,1,2314
+vila vera cruz ii,1,1121
+vitoria da conquista,1,806
